@@ -4,7 +4,7 @@
 
 #define CAPACIDADE_INICIAL 100
 
-// Estrutura do registro (4 colunas do CSV)
+// Estrutura do registro
 typedef struct {
     char *campo1;
     char *campo2;
