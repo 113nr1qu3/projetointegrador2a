@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Declarações das funções (vindas das outras issues)
+// Declarações das funções
 int* ler_partes_otimizado(const char *nome_arquivo, int *tamanho_final);
 int busca_sequencial_por_id(int *ids, int tamanho, int id_alvo);
 
