@@ -17,7 +17,7 @@ int contar_linhas(const char *nome_arquivo) {
     return linhas;
 }
 
-// Lê partes do dataset (início, meio e fim)
+// Lê partes do dataset 
 int* ler_partes_otimizado(const char *nome_arquivo, int *tamanho_final) {
     int total_linhas = contar_linhas(nome_arquivo);
 
