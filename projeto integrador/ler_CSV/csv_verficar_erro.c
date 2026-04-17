@@ -36,7 +36,7 @@ char *ler_linha(FILE *arquivo) {
     return buffer;
 }
 
-// Parser CSV simples (sem suporte a aspas)
+// Parser CSV simples 
 int parsear_csv_simples(const char *linha, char ***campos_saida) {
     int quantidade = 0;
     int capacidade = 10;
