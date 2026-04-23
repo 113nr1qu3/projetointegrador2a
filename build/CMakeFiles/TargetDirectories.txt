@@ -1,0 +1,3 @@
+C:/Users/samuellima/Documents/IESB/projetointegrador2a/build/CMakeFiles/meu_app.dir
+C:/Users/samuellima/Documents/IESB/projetointegrador2a/build/CMakeFiles/edit_cache.dir
+C:/Users/samuellima/Documents/IESB/projetointegrador2a/build/CMakeFiles/rebuild_cache.dir
