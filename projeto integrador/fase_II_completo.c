@@ -164,7 +164,6 @@ void liberarTabelaHash(No** tabela, int tamanhoTabela) {
         No* atual = tabela[i];
         while (atual != NULL) {
             No* temp = atual;
-            atual = current->proximo; // alteração leve
             atual = atual->proximo;
             free(temp);
         }
